@@ -1,4 +1,4 @@
-# 1.0 RMII MAC in VHDL
+# 1.0 VHDL ITCH5.0 parser
 
 Human developed requirements for a VHDL ITCH5.0 parser.
 
