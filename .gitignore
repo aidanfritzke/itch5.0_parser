@@ -1,0 +1,24 @@
+# Builds
+fpga/build/*
+!fpga/build/.gitkeep
+
+# Vivado generated files
+.Xil/
+*.jou
+*.log
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+
+# Data
+data/*
+!data/.gitkeep
+
+# Python
+__pycache__/
+.venv/
+
+# comments-by-humans gate state and review reports (github.com/aidanfritzke/comments-by-humans)
+.comments-by-humans/
